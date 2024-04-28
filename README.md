@@ -89,7 +89,7 @@ Date: [Date of Report Completion]
 
 2. Inconsistent Information: Cust ABC initially provided an incorrect account number, which he then corrected. This could indicate a lack of familiarity with the account details or an attempt to deceive.
 
-3. No Phone for Verification: Despite the bank operator, Staff XYZ, attempting to complete an authentication process with a verification code sent to a mobile number, Alex claimed not to have a phone, thus avoiding this security measure.
+3. No Phone for Verification: Despite the bank operator, Staff XYZ, attempting to complete an authentication process with a verification code sent to a mobile number, Cust ABC claimed not to have a phone, thus avoiding this security measure.
 
 4. Urgency and Pressure: The customer repeatedly stressed the urgency of the transfers, claiming lives were at risk and expressing a strong desire to avoid bank bureaucracy, thereby trying to rush the process and potentially bypass standard security checks.
 
